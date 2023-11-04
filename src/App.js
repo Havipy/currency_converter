@@ -60,7 +60,7 @@ function App() {
 
 	return (
 		<div>
-			<h1>Конветер валют</h1>
+			<h1>Конвертер валют</h1>
 			{loading
 				?
 				<div>Загрузка</div>

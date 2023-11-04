@@ -1,0 +1,19 @@
+body {
+	background-color: #161616;
+	color: #ddd;
+	padding: 50px;
+}
+h1 {
+	color: #eef;
+	text-align: center;
+}
+
+.currencies {
+	display: flex;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	border: 1px solid rgba(0, 0, 0, 0.1);
+	border-radius: 5px;
+	overflow: hidden;
+}

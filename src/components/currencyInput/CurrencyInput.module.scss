@@ -1,0 +1,25 @@
+.wrapper {
+	background: #335;
+	width: 80%;
+	margin: 0 auto 20px;
+	display: flex;
+	flex-direction: column;
+	border-radius: 15px;
+	overflow: hidden;
+}
+
+.amountInput {
+	font-size: 3rem;
+	font-weight: bold;
+	padding: 20px 20px;
+	letter-spacing: 1.3px;
+	outline: none;
+}
+.currencySelect {
+	font-size: 1rem;
+	padding: 10px 20px;
+	background-color: #0ebc7f;
+	color: #fff;
+	cursor: pointer;
+	justify-content: center;
+}
